@@ -1,0 +1,10 @@
+###
+POST http://localhost:3001/create
+Content-Type: application/json
+
+{
+    "name": "test",
+    "position": "test",
+    "office": "test",
+    "salary":55
+}
